@@ -1,3 +1,3 @@
 # Thyroid Histopathology Image Analysis-Code
 
-This is code used for research project of Thyroid Histopathology Image Analysis.  
+This code is used for research project of Thyroid Histopathology Image Analysis.  
